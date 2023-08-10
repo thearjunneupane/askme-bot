@@ -1,0 +1,6 @@
+{
+    "Bot_Token":"(Your discord app token)",
+    "Bot_Prefix":"(add you prefix with a space after it)",
+    "Gpt_api_key":"(Your Gpt Api key)",
+    "Gpt_api_url":"https://api.openai.com/v1/engines/(The AI Model)/completions"
+}
